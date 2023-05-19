@@ -1,0 +1,14 @@
+{
+  "name": "logo-generator-module-10",
+  "version": "1.0.0",
+  "description": "A command-line logo generator application for web developers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Colt Hammond",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
